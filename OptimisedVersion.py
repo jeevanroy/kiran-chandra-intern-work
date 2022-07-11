@@ -7,7 +7,7 @@ You can notice the optimization.
 
 Explanation:
     According to the finalrough.py file you are saying that n = even, odd, perfect_square, odd, and even.
-    But According to this file you are asking for n=100-2,100-1,100,100+1,100+2.
+    But According to this file you are asking for n=100-2,100-1,100,121-20,121-19.
 
 '''
 
