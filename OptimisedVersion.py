@@ -203,7 +203,7 @@ def not_a_perfect_square():
 #Ex: i) n=101 then k=11 and constant = 20 -> (11**2)-20==101
 #Ex: i) n=102 then k=11 and constant = 19 -> (11**2)-19==102
 
-if perfect_square(n):
+if False: #perfect_square(n):
     k=i_val
     perfect_square_rect()
     #print(i_val)
