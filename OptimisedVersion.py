@@ -140,4 +140,4 @@ def generate_rectangles():
 
 i_val = [i for i in range(int(n**0.5+1))][-1]+1
 k=i_val
-not_a_perfect_square()
+generate_rectangles()
